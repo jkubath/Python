@@ -1,2 +1,2 @@
 # Python
-Fun using python
+Learning to use python
